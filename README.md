@@ -4,7 +4,7 @@ Este repositorio  es complemetento a nuestra Ayudantía 2 de Ciencias Sociales C
 
 En la ayudantía repasaremos algunos contenidos correspondiente al análisis de datos observacionales mediante regresiones y estrategias de identificación. 
 
-1. Vamos a seguir unas slides teoricas que pongo a su disposición:
+1. Vamos a seguir unas slides teoricas que pongo a su disposición en el siguiente [link](https://github.com/ClasesMOW/ayudantia2css/blob/main/Slides%20ay%202%20-%20teorico.pdf)
 2. Vamos a replicar un tutorial de las diferentes técnicas. Una versión compilada web del tutorial está disponible en este [link](https://rpubs.com/maoyarzun/974348)
 3. El tutorial en version proyecto está en la subcarpeta "tutrial" de este github. Se recomienda clonarla para que lo corran y editen por su cuenta.
 4. Al finalizar realizaremos una actividad práctica, que etsá disponible en la carpeta "actividad practica" en la cual replicaremos el estudio [Dynamics of cross-platform attention to retracted papers](https://www.pnas.org/doi/10.1073/pnas.2119086119).
