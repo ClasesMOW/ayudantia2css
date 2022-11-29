@@ -6,7 +6,7 @@ En la ayudantía repasaremos algunos contenidos correspondiente al análisis de 
 
 1. Vamos a seguir unas slides teoricas que pongo a su disposición en el siguiente [link](https://github.com/ClasesMOW/ayudantia2css/blob/main/Slides%20ay%202%20-%20teorico.pdf)
 2. Vamos a replicar un tutorial de las diferentes técnicas. Una versión compilada web del tutorial está disponible en este [link](https://rpubs.com/maoyarzun/974348)
-3. El tutorial en version proyecto está en la subcarpeta "tutrial" de este github. Se recomienda clonarla para que lo corran y editen por su cuenta.
+3. El tutorial en version proyecto está en el siguiente repositorio de github <https://github.com/ClasesMOW/ayudantia2_tutorial>. Se recomienda clonarla para que lo corran y editen por su cuenta.
 4. Al finalizar realizaremos una actividad práctica, que etsá disponible en la carpeta "actividad practica" en la cual replicaremos el estudio [Dynamics of cross-platform attention to retracted papers](https://www.pnas.org/doi/10.1073/pnas.2119086119).
 
     - Los autores pusieron a disposición de la comunidad un [repositorio en github](https://github.com/haoopeng/retraction_attention) con los datos procesados y los algoritmos usados para obtener los resultados de la investigación.
