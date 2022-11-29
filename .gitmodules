@@ -1,3 +1,6 @@
 [submodule "ayudantia2_tutorial"]
 	path = ayudantia2_tutorial
 	url = https://github.com/ClasesMOW/ayudantia2_tutorial.git
+[submodule "tarea2_replicacion_retraction"]
+	path = tarea2_replicacion_retraction
+	url = https://github.com/ClasesMOW/tarea2_replicacion_retraction.git
